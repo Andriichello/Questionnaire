@@ -1,0 +1,17 @@
+{
+  "name": "Andriichello/questionary",
+  "authors": [
+    {
+      "name": "Andrii Prykhodko",
+      "email": "andriichello@gmail.com"
+    }
+  ],
+  "require": {
+    "php" : ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Andriichello\\" : "src/"
+    }
+  }
+}
