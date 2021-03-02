@@ -11,7 +11,10 @@
   },
   "autoload": {
     "psr-4": {
-      "Andriichello\\" : "src/"
+      "Andriichello\\" : "src/",
+      "Andriichello\\Pdo\\" : "src/pdo",
+      "Andriichello\\Repo\\" : "src/repo",
+      "Andriichello\\Types\\" : "src/types"
     }
   }
 }
